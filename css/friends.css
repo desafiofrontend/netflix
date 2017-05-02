@@ -271,6 +271,7 @@
     }
     .list{
         margin-top:16px;
+        background-color: white;
     }
     .list .big{
         display:none;

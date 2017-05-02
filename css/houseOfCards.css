@@ -536,6 +536,7 @@
     }
     .nav ul li a{
         text-decoration: none;
+        color: yellow;
     }
     .nav ul li:first-child a{
         text-decoration: underline;
@@ -826,6 +827,9 @@
     }
     .list .mobile1 .sub-episode,.mobile1 .sub-episode img{
         width:232px;
+    }
+    #imgs .list .mobile1 .sub-episode,.mobile1 .sub-episode img{
+        width:200%;
     }
     .list .mobile1 .sub-episode{
         float:left;

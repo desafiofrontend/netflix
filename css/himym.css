@@ -246,7 +246,7 @@
         display: none;
     }  
        #navBtn{
-            float:left;
+            float:right;
             width: 25px;
             height: 24px;
             text-align: center;
@@ -370,7 +370,7 @@
     .list .mobile1 .sub-episode h3{
         font-size:18px;
         font-weight:bold;
-        color:rgb(138,135,135);
+        color:red;
         margin:7px 0;
     }
     .list .mobile1 .sub-episode h3:hover {
@@ -432,7 +432,7 @@
         width:950px;
         height:auto;
         margin:0 auto;
-        background-color: rgb(20,20,20);
+        background-color: white;
     }
     .teste{
         margin-right: 120px;
@@ -826,6 +826,9 @@
     }
     .list .mobile1 .sub-episode,.mobile1 .sub-episode img{
         width:232px;
+    }
+    #imgs .list .mobile1 .sub-episode,.mobile1 .sub-episode img{
+        width:175%;
     }
     .list .mobile1 .sub-episode{
         float:left;

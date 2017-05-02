@@ -432,7 +432,7 @@
         width:950px;
         height:auto;
         margin:0 auto;
-        background-color: rgb(20,20,20);
+        background-color: yellow;
     }
     .teste{
         margin-right: 120px;
@@ -838,6 +838,7 @@
     .list .mobile1 .sub-episode p{
         font-size:14px;
         word-wrap: break-word;
+        color: black;
     }
 
     .mobile1 .sub-episode:nth-child(2){
