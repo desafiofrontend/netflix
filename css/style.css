@@ -544,7 +544,7 @@
         text-decoration: none;
     }
     .nav ul li:first-child a{
-        text-decoration: underline;
+        text-decoration: none;
     }
     
     .showcase span{

@@ -432,7 +432,7 @@
         width:950px;
         height:auto;
         margin:0 auto;
-        background-color: rgb(20,20,20);
+        background-color: pink;
     }
     .teste{
         margin-right: 120px;
@@ -678,7 +678,7 @@
         width:200px;
         text-align: left;
         font-family: "arial";
-        background-color: yellow;
+        background-color: grey;
     }
     .showcase-text1 div:nth-child(2) i, .showcase-text1 div:nth-child(2) a{
         line-height:50px;
