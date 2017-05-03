@@ -34,25 +34,7 @@ var windowWidth = $(window).width();
             height:180
         });
     });
-    // $(".showcase-text1").children("div").eq(0).click(function(event){
-    //     $(".overlay").children("iframe").remove();
-    //     var domiframe='<iframe src="https://www.youtube.com/embed/NTzycsqxYJ0" frameborder="0" allowfullscreen></iframe>';
-    //     $(".overlay").append(domiframe);
-    //     event.preventDefault();
-    //         //console.log("clicked!");  
-    //     $(".overlay").fadeIn(200); 
-    //     if(parseInt(windowWidth)<980){
-    //          $(".overlay").children("iframe").attr({
-    //             width:300,
-    //             height:180
-    //         }); 
-    //     }else{
-    //          $(".overlay").children("iframe").attr({
-    //             width:900,
-    //             height:560
-    //         });   
-    //     }
-    // });
+
     
     if($("head").children("title").html()!=="Netflix")$(".nav ul").children("li:first-child").children("a").css("text-decoration","none");
   
