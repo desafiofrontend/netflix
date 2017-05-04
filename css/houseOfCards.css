@@ -536,7 +536,7 @@
     }
     .nav ul li a{
         text-decoration: none;
-        color: yellow;
+        color: white;   
     }
     .nav ul li:first-child a{
         text-decoration: underline;
@@ -829,7 +829,7 @@
         width:232px;
     }
     #imgs .list .mobile1 .sub-episode,.mobile1 .sub-episode img{
-        width:200%;
+        width:100%;
     }
     .list .mobile1 .sub-episode{
         float:left;

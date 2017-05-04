@@ -273,6 +273,9 @@
         margin-top:16px;
         background-color: white;
     }
+    .cor-fundo{
+        background-color: rgb(20,20,20);
+    }
     .list .big{
         display:none;
     }
